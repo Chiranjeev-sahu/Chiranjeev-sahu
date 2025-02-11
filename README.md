@@ -8,10 +8,7 @@
 
 ## 🚀 About Me  
 - 🌱 Currently part of **Harkirat’s 100x Cohort**, leveling up my programming and problem-solving skills!  
-- 🎯 Focused on **machine learning**, **data science**, and **development** to build real-world solutions.  
 - 💡 Always exploring new ideas and looking for my niche in the vast tech landscape.  
-- 🔍 Passionate about **data-driven decision-making** and deploying models that matter.  
-
 ---
 
 ## 📖 What I'm Learning  
